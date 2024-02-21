@@ -10,5 +10,4 @@ To get started with the Adventure Game, follow these steps:
 3. Compile and run the game.
 
 ## Gameplay
-The Adventure Game is a text-based interactive story where players make choices to navigate through different scenarios. Each decision impacts the outcome of the game, leading to multiple possible endings. Explore diverse landscapes, solve puzzles, and make strategic choices to progress through the narrative.
-
+The Adventure Game is a interactive story where players have to fight with the enemies and save the world.There are three levels and each level the enemies increase their power.
